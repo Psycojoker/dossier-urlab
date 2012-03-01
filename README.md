@@ -6,7 +6,7 @@ Sous debian et dérivées:
 
     sudo apt-get install texlive-base texlive-latex-extra texlive-lang-french texlive-fonts-recommended
 
-Hésitez pas à ne pas prendre les packages -doc qui prennent plein de places et ne servent à rien.
+N'hésitez pas à ne pas prendre les packages -doc qui prennent plein de places et ne servent à rien.
 
 # Compilation
 
